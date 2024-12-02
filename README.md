@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-02 183011](https://github.com/user-attachments/assets/4a36df2d-6305-42ab-8040-602de87851db)
+
+
+### Name: SYED SAIF SYED GHOUSE
+### Register Number: 24009014
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
